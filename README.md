@@ -123,6 +123,7 @@ Document Author：Kazuya Wakimoto
 ![dev-movement](figure/dev-movement.png) ![dev-static-rotate](figure/dev-static-rotate.png)
 
 - 以下のブロックを**3つ**画面中央にドラック＆ドロップします。
+
   Drag and drop the following three blocks to the center of the screen.
 
 ![dev-variable](figure/dev-variable.png) ![dev-set-height](figure/dev-set-height.png)
@@ -172,6 +173,7 @@ Document Author：Kazuya Wakimoto
 ![dev-set-height_1](figure/dev-set-height_1.png)
 
 - ![dev-change-y](figure/dev-change-y.png)の**10**に![dev-variable-height](figure/dev-variable-height.png)をドラッグ&ドロップしてください。
+
   Drag and drop the![dev-variable-height](figure/dev-variable-height.png) into "10" in ![dev-change-y](figure/dev-change-y.png)
 
 ![dev-change-y-to-h](figure/dev-change-y-to-h.png)
@@ -221,6 +223,7 @@ Document Author：Kazuya Wakimoto
 ![dev-changed-height_01](figure/dev-changed-height_01.png)
 
 - ブロックをくっつけてください。(音は好きな音を設定してください。）
+
   Connect the blocks.(Set your favorite sounds.)
 
 ![dev-connect-main_02](figure/dev-connect-main_02.png)
@@ -246,11 +249,13 @@ Document Author：Kazuya Wakimoto
   Drag and drop the![dev-vs-cond-equal](figure/dev-cond-equal.png) into blanks in![dev-for](figure/dev-for.png)
 
 - ![dev-vs-cond-equal](figure/dev-cond-equal.png)の左の空いているところに![dev-variable-height](figure/dev-variable-height.png)をドラッグ&ドロップし、右の数字を**0に変更**します。(数字をダブルクリックすることで、数字を編集できる状態になります。)
+
   Drag and drop the ![dev-variable-height](figure/dev-variable-height.png) into the left blanks, and change the right number to 0. 
 
 ![dev-changed-for](figure/dev-changed-for.png)
 
 - ![dev-change-y](figure/dev-change-y.png)の**10**に![dev-variable-height](figure/dev-variable-height.png)をドラッグ&ドロップしてください。
+
   Drag and drop the ![dev-variable-height](figure/dev-variable-height.png) into "10" in ![dev-change-y](figure/dev-change-y.png)
 
 ![dev-change-y-to-h](figure/dev-change-y-to-h.png)
@@ -262,6 +267,7 @@ Document Author：Kazuya Wakimoto
 ![dev-changed-height_02](figure/dev-changed-height_02.png)
 
 - ブロックをくっつけてください。
+
   Connect the blocks.
 
 ![dev-connect-main_03](figure/dev-connect-main_03.png)
@@ -290,6 +296,7 @@ Document Author：Kazuya Wakimoto
 ![dev-changed-if_02](figure/dev-changed-if_02.png)
 
 - ブロックをくっつけてください。
+
   Connect the blocks.
 
 ![dev-connect-main_04](figure/dev-connect-main_04.png)
