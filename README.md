@@ -136,13 +136,13 @@ Document Author：Kazuya Wakimoto
 
 - ![dev-set-height](figure/dev-set-height.png)の▼ボタンを押し、表示される変数の一覧から **『とくてん』** を選んでください。
 
-  Press the ▼ button on ![dev-set-height](figure/dev-set-height.png)A and select "Score" from the list of variables displayed.
+  Press the ▼ button on ![dev-set-height](figure/dev-set-height.png) and select "Score" from the list of variables displayed.
 
 ![dev-score](figure/dev-score.png)
 
 - ![dev-set-height](figure/dev-set-height.png)の▼ボタンを押し、表示される変数の一覧から **『はば』** を選んでください。
 
-  Press the ▼ button on ![dev-set-height](figure/dev-set-height.png)A and select "Width" from the list of variables displayed.
+  Press the ▼ button on ![dev-set-height](figure/dev-set-height.png) and select "Width" from the list of variables displayed.
 
 ![dev-width](figure/dev-width.png)
 
@@ -212,7 +212,7 @@ Document Author：Kazuya Wakimoto
 
 - ![dev-change-variable](figure/dev-change-variable.png)の▼ボタンを押し、表示される変数の一覧から **『とくてん』** を選んでください。
 
-  Press the ▼ button on ![dev-change-variable](figure/dev-change-variable.png)A and select "Score" from the list of variables displayed.
+  Press the ▼ button on ![dev-change-variable](figure/dev-change-variable.png) and select "Score" from the list of variables displayed.
 
 ![dev-changed-score](figure/dev-changed-score.png)
 
@@ -222,9 +222,9 @@ Document Author：Kazuya Wakimoto
 
 ![dev-changed-height_01](figure/dev-changed-height_01.png)
 
-- ブロックをくっつけてください。(音は好きな音を設定してください。）
+- ブロックをくっつけてください。
 
-  Connect the blocks.(Set your favorite sounds.)
+  Connect the blocks.
 
 ![dev-connect-main_02](figure/dev-connect-main_02.png)
 
@@ -335,7 +335,7 @@ Document Author：Kazuya Wakimoto
 
 - ![dev-set-height](figure/dev-set-height.png)の▼ボタンを押し、表示される変数の一覧から **『はば』** を選んでください。
 
-  Press the ▼ button on ![dev-set-height](figure/dev-set-height.png)A and select "Width" from the list of variables displayed.
+  Press the ▼ button on ![dev-set-height](figure/dev-set-height.png) and select "Width" from the list of variables displayed.
 
 - ![dev-set-height](figure/dev-set-height.png)の**『0』**に![dev-random](figure/dev-random.png)をドラッグ＆ドロップしてください。
 
@@ -388,7 +388,7 @@ Document Author：Kazuya Wakimoto
 ![dev-changed-loop_01](figure/dev-changed-loop_01.png)
 
 - ![dev-set-height](figure/dev-set-height.png)の▼ボタンを押し、表示される変数の一覧から **『はば』** を選んでください。
-  Press the ▼ button on ![dev-set-height](figure/dev-set-height.png)A and select "Width" from the list of variables displayed.
+  Press the ▼ button on ![dev-set-height](figure/dev-set-height.png) and select "Width" from the list of variables displayed.
 
 - ![dev-set-height](figure/dev-set-height.png)の**『0』**に![dev-random](figure/dev-random.png)をドラッグ＆ドロップしてください。
 
@@ -410,7 +410,55 @@ Document Author：Kazuya Wakimoto
 
 ![dev-connect-sub_02](figure/dev-connect-sub_02.png)
 
-# 4. プログラムの保存方法(How to save the program)
+
+
+# 4. 音の変更方法(How to change the sound)
+
+- 『音』をクリックしてください。
+
+  Click on the ”Sound” tab.
+
+![sound-select-tab](figure/sound-select-tab.png)
+
+- ![sound-select-sound-button](figure/sound-select-sound-button.png)をクリックしてください。
+
+  Click on the![sound-select-sound-button](figure/sound-select-sound-button.png)button.
+
+![sound-select-sound](figure/sound-select-sound.png)
+
+- 『A Bass』をクリックしてください。
+
+  Click on the "A Bass" tile.
+
+![sound-add-sound](figure/sound-add-sound.png)
+
+- 『コード』をクリックしてください。
+
+  Click on the "Code" tab.
+
+![sound-return-code](figure/sound-return-code.png)
+
+
+
+- 以下のブロックを画面中央にドラック＆ドロップします。
+
+  Drag and drop the following blocks to the center of the screen.
+
+![dev-sound](figure/dev-sound.png)  ![dev-play-sound](figure/dev-play-sound.png)
+
+
+
+- ![dev-play-sound](figure/dev-play-sound.png)の▼ボタンを押し、表示される一覧から **『A Bass』** を選んでください。
+  Press the ▼ button on ![dev-play-sound](figure/dev-play-sound.png) and select "A Bass" from the list displayed.
+
+![sound-change-sound](/Users/kazuya.wakimoto/develop/scratch_edu/balloon_game/figure/sound-change-sound.png)
+
+
+
+
+
+
+# 5. プログラムの保存方法(How to save the program)
 
 Scrachのファイルのメニューから『コンピューターに保存する』を選択し、実行してください。
 
@@ -418,9 +466,9 @@ From the Scrach file menu, select "Save to computer" and run it.
 
 ![save](figure/save.png)
 
-# 5. プログラムの実行・停止方法(How to run and stop the program)
+# 6. プログラムの実行・停止方法(How to run and stop the program)
 
-## 5-1. プログラムを実行(Run the program)
+## 6-1. プログラムを実行(Run the program)
 
 旗のボタンを押してください。
 
@@ -428,7 +476,7 @@ Press the flag button.
 
 ![run](figure/run_app_button.png)
 
-## 5-2. プログラムを停止(Stop the program)
+## 6-2. プログラムを停止(Stop the program)
 
 赤いボタンを押してください。
 
