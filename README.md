@@ -449,9 +449,10 @@ Document Author：Kazuya Wakimoto
 
 
 - ![dev-play-sound](figure/dev-play-sound.png)の▼ボタンを押し、表示される一覧から **『A Bass』** を選んでください。
+
   Press the ▼ button on ![dev-play-sound](figure/dev-play-sound.png) and select "A Bass" from the list displayed.
 
-![sound-change-sound](/Users/kazuya.wakimoto/develop/scratch_edu/balloon_game/figure/sound-change-sound.png)
+![sound-change-sound](figure/sound-change-sound.png)
 
 
 
